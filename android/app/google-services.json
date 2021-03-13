@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601679783931",
+    "project_id": "flashchat-faf7a",
+    "storage_bucket": "flashchat-faf7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601679783931:android:44ce3357e1ab4a3c3c8d5e",
+        "android_client_info": {
+          "package_name": "co.nishtha.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601679783931-5gn4a6g7spf5pt2ski5gcugv5b16unfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrMzTzMm5Yx2uYyNZD5Sqpvk73NzhFkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601679783931-5gn4a6g7spf5pt2ski5gcugv5b16unfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
